@@ -1,0 +1,8 @@
+@import url('./views/dashboard-view.css');
+@import url('./views/cases-view.css');
+@import url('./views/clients-view.css');
+@import url('./views/feed-view.css');
+@import url('@fontsource/karla/index.css');    html {
+--lumo-font-family: Karla;
+
+    }
